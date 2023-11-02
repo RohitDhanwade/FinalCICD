@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FinalSuite,,,,2023-11-02 15:40:26,2023-11-02 15:40:27,0.860s,PASSED
+,,,,,,,
+Test Cases/Login,,,,2023-11-02 15:40:27,2023-11-02 15:40:27,0.342s,PASSED
+"println(""login test case"")",,,,2023-11-02 15:40:27,2023-11-02 15:40:27,0.004s,PASSED
+,,,,,,,
+Test Cases/Log out,,,,2023-11-02 15:40:27,2023-11-02 15:40:27,0.272s,PASSED
+"println(""Log out test case"")",,,,2023-11-02 15:40:27,2023-11-02 15:40:27,0.000s,PASSED
