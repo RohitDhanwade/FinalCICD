@@ -21,8 +21,6 @@ println('login test case')
 
 WebUI.openBrowser('https://www.facebook.com')
 
-WebUI.waitForElementPresent(findTestObject('Facebook/Page_Facebook  log in or sign up/i_Username'), 5)
-
 WebUI.setText(findTestObject('Facebook/Page_Facebook  log in or sign up/i_Username'), '9561007365')
 
 WebUI.click(findTestObject('Facebook/Page_Facebook  log in or sign up/password'))
