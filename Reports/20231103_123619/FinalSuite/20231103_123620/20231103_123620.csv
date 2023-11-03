@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+FinalSuite,,,,2023-11-03 12:36:28,2023-11-03 12:36:30,2.671s,FAILED
+,,,,,,,
+Test Cases/Login,,,,2023-11-03 12:36:28,2023-11-03 12:36:30,2.471s,FAILED
+"println(""login test case"")",,,,2023-11-03 12:36:28,2023-11-03 12:36:28,0.004s,PASSED
+"openBrowser(""https://www.facebook.com"")",,,,2023-11-03 12:36:28,2023-11-03 12:36:30,2.069s,PASSED
+waitForPageLoad(10),,,,2023-11-03 12:36:30,2023-11-03 12:36:30,0.187s,FAILED
+,,,,,,,
+Test Cases/Log out,,,,2023-11-03 12:36:30,2023-11-03 12:36:30,0.036s,PASSED
+"println(""Log out test case"")",,,,2023-11-03 12:36:30,2023-11-03 12:36:30,0.001s,PASSED
+"println(""Log out test case"")",,,,2023-11-03 12:36:30,2023-11-03 12:36:30,0.001s,PASSED
