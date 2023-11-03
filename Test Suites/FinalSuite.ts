@@ -17,6 +17,12 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/Login</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c6c46bf0-f96b-43f5-8a99-5f017bf21329</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>2808897a-a3b3-43d5-85b5-13d34510b55e</guid>
